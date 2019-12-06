@@ -1,3 +1,5 @@
-# 6-diciembre-git
+# 6 de diciembre
 
-¡Hoy es viernes! Wuuu :)
+¡Hoy no es lunes! Wuuu :)
+
+texto!
