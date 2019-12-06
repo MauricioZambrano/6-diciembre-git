@@ -1,3 +1,3 @@
-# 6-diciembre-git
+# 6-git
 
-¡Hoy es viernes! Wuuu :)
+ Wuuu :) Mañana es sabado
